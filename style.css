@@ -1,0 +1,52 @@
+body{
+    font-family: 'Balsamiq Sans';
+}
+
+.contenedorPrincipal{
+    border: 2px solid rgb(160, 160, 160);
+    width: 650px;
+}
+
+.header{
+    background-color: rgb(4, 160, 160);
+    height: 70px;
+}
+
+.header > img{
+    width: 80px;
+    position: relative;
+    top: 30px;
+    left: 20px;
+    border: 2px solid rgb(160, 160, 160);
+    border-radius: 50%;
+    padding: 2px;
+    background-color: white;
+}
+
+.tarjetaInformacion{
+    margin-top: 55px;
+    padding-left: 20px;
+    padding-bottom: 20px;
+}
+
+.iconoUbicacion {
+    width: 10px;
+    padding: 5px;
+}
+
+.iconoConfiguracion{
+    width: 15px;
+    padding: 5px;
+}
+
+.ciudad, .linkEditar{
+    vertical-align: 7px;
+}
+
+.skillset{
+    margin-bottom: 5px;
+}
+
+.tituloUniversitario{
+    margin-top: 0;
+}
